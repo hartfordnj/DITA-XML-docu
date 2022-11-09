@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Additon">
+    <title>Addtion</title>
+    <shortdesc>the action or process of adding something to something else.</shortdesc>
+    <conbody>
+        <p>Addition is adding number(s) or value(s) <b>to</b> another number or value. </p>
+        <p>If we begin with the number <b>[8]</b> and add <b>[5]</b> to it, we are left with
+                <b>[13]</b>. </p>
+        <p>In the JPS Calculator App the addition fucntion is represented by the <b>[+]</b> key.</p>
+        <example id="example_mpj_2q5_lvb"><i>Example: </i>8 + 5 = 3</example>
+    </conbody>
+</concept>

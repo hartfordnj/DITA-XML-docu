@@ -2,8 +2,17 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>End-User Guide for JPS Calc</title>
-    <topichead navtitle="Sum Up"/>
-    <topichead navtitle="Subtract"/>
-    <topichead navtitle="Multiply"/>
-    <topichead navtitle="Divide"/>
+    <topichead navtitle="Sum Up">
+        <topicref href="Additon.dita"/>
+    </topichead>
+    <topichead navtitle="Subtract">
+        <topicref href="subtraction.dita"/>
+        <topicref href="how_to_subtract_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply">
+        <topicref href="Multiply.dita"/>
+    </topichead>
+    <topichead navtitle="Divide">
+        <topicref href="Divide.dita"/>
+    </topichead>
 </map>
