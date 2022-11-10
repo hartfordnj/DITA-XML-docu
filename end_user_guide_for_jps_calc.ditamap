@@ -4,6 +4,7 @@
     <title>End-User Guide for JPS Calc</title>
     <topichead navtitle="Sum Up">
         <topicref href="Additon.dita"/>
+        <topicref href="how_to_add_numbers%20-%20Copy.dita"/>
     </topichead>
     <topichead navtitle="Subtract">
         <topicref href="subtraction.dita"/>
@@ -11,6 +12,7 @@
     </topichead>
     <topichead navtitle="Multiply">
         <topicref href="Multiply.dita"/>
+        <topicref href="how_to_mutliply_numbers.dita"/>
     </topichead>
     <topichead navtitle="Divide">
         <topicref href="Divide.dita"/>
