@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_subtract_numbers">
-    <title>How to subtract numbers</title>
-    <shortdesc>Instructions for using the subtract function on the JPS Calculator app.</shortdesc>
+<task id="how_to_mutliply_numbers">
+    <title>How to multiply numbers</title>
+    <shortdesc>Instructions for using the multiply function on the JPS Calculator app.</shortdesc>
     <taskbody>
         <prereq id="prereq_grv_5b5_lvb">
-            <p>To succesfully subtract numbers, you must understand the definition of
-                subtraction.</p>
+            <p>To succesfully multiply numbers, you must understand the definition of addition.</p>
         </prereq>
         <context/>
         <steps>
@@ -14,7 +13,7 @@
                 <cmd>Enter the first number by pressing it.</cmd>
             </step>
             <step>
-                <cmd>Press the minus [-] button</cmd>
+                <cmd>Press the multiply [x] button</cmd>
             </step>
             <step>
                 <cmd>Enter the second number by pressing it.</cmd>
@@ -24,7 +23,7 @@
             </step>
         </steps>
         <result id="result_fjv_k25_lvb">The sum of the equation is displayed on the screen.</result>
-        <example id="example_nm5_m25_lvb">The first number [8] minus [-] the second number [5]
-            equals [=] 3. <p>8 - 5 = 3</p></example>
+        <example id="example_nm5_m25_lvb">The first number [8] plus [+] the second number [5] equals
+            [=] 13. <p>8 + 5 = 13</p></example>
     </taskbody>
 </task>

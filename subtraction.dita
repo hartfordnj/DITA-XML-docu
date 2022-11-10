@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="subtraction">
     <title>Subtraction</title>
-    <shortdesc>the process or skill of taking one number or amount away from another.</shortdesc>
+    <shortdesc>the process or skill of taking one number or amount <b>away from</b>
+        another.</shortdesc>
     <conbody>
         <p>Subtraction is removing one number or value from another. </p>
         <p>If we begin with the number <b>[8]</b> and remove (subtract) <b>[5]</b>, we are left with

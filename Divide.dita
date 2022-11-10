@@ -2,14 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Divide">
     <title>Divide</title>
-    <shortdesc><b>obtain</b> from (a number) another that contains the <b>first number</b> a
-            <b>specified number of times.</b></shortdesc>
+    <shortdesc>The method for dividing large numbers into smaller groups or parts.</shortdesc>
     <conbody>
-        <p>To multiply a number we take an established number and repeat it as many times as
+        <p>To divide a number we take an established number and seperate it as many times as
             determined by the second number. </p>
-        <p>If we begin with the number <b>[8]</b> and repeat it (multiply) <b>[5]</b> times
-            (8+8+8+8+8), we are left with <b>[40]</b>. </p>
-        <p>In the JPS Calculator App the multiply fucntion is represented by the <b>[x]</b> key.</p>
-        <example id="example_mpj_2q5_lvb"><i>Example: </i>8 x 5 = 40</example>
+        <p>If we begin with the number <b>[40]</b> and separate it (divide) into <b>[5]</b> equal
+            parts, we are left with <b>[8]</b> parts. </p>
+        <p>In the JPS Calculator App the divide fucntion is represented by the <b>[/]</b> key.</p>
+        <example id="example_mpj_2q5_lvb"><i>Example: </i>40 / 5 = 8</example>
     </conbody>
 </concept>
